@@ -1,0 +1,19 @@
+{
+  "name": "little-lemon-booking",
+  "version": "1.0.0",
+  "description": "Booking form for Little Lemon restaurant",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test --env=jsdom",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^13.0.0"
+  }
+}
